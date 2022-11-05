@@ -1,0 +1,6 @@
+# All . directories & files i.e .nuxt
+.*/
+
+# Build & Dist folders
+dist
+build
