@@ -8,7 +8,7 @@
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "tauri": "tauri",
-    "lint": "eslint . --ext .js,.vue --format=codeframe"
+    "lint": "eslint . --format=codeframe"
   },
   "dependencies": {
     "@quasar/extras": "^1.15.5",
