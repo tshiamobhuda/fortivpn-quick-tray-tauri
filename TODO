@@ -6,3 +6,6 @@ API:
   [] logs
   [] quit
 
+APP:
+  [] logs
+  [] dark/light mode

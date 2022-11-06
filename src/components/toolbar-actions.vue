@@ -1,0 +1,32 @@
+<template>
+    <q-btn
+        flat
+        dense
+        stretch
+    >
+        <q-icon
+            left
+            name="eva-file-text-outline"
+            size="xs"
+        />
+        Config
+    </q-btn>
+    <q-separator
+        dark
+        vertical
+        spaced
+        inset
+    />
+    <q-btn
+        flat
+        dense
+        stretch
+    >
+        <q-icon
+            left
+            name="eva-link"
+            size="xs"
+        />
+        Connect
+    </q-btn>
+</template>
